@@ -16,3 +16,4 @@ array_sum = array1 + array2
 print(array_sum)
 print(array2[1] + array2[5])
 random.shuffle(array2)
+# nevím jestli toto stačí.

@@ -16,4 +16,4 @@ print("Po Zaměnění pátého stringu za 'slunce':", pole)
 
 # 5. Přidejte 2 stringové hodnoty pole pomocí metody extend().
 pole.extend(["měsíc", "hvězda"])
-print("Přidání 'měsíc' a 'hvězda':", pole)
+print("Po Přidání 'měsíc' a 'hvězda':", pole)
